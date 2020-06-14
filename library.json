@@ -1,0 +1,8 @@
+{
+    "name": "Eigen",
+    "version": "3.3.7",
+    "description": "An Arduino-friendly packaging of Eigen library",
+    "build":{
+        "libArchive": false
+    }
+}
